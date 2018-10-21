@@ -1,0 +1,22 @@
+
+| Company Name                                    | Last Price | DIV/Yield | Change
+|------------------------------------------------------------------------------------------
+| Dow Jones Industrial Average  [INDEXDJX:.DJI]   | 25,316.53  | None      | +75.12 (0.30%)
+| AbbVie Inc  [ABBV]                              | 100.43     | 3.82%     | +1.11 (1.12%)
+| Abbott Laboratories  [ABT]                      | 63.27      | 1.77%     | +0.10 (0.16%)
+| Berkshire Hills Bancorp, Inc.  [BHLB]           | 43.00      | 2.05%     | −0.75 (1.71%)
+| Bank of New York Mellon Corp  [NYSE:BK]         | 57.56      | 1.67%     | −0.090 (0.16%)
+| Walt Disney Co  [DIS]                           | 103.98     | 1.62%     | +1.53 (1.49%)
+| Fortune Brands Home & Security Inc  [FBHS]      | 58.52      | 1.37%     | +0.89 (1.54%)
+| General Electric Company  [GE]                  | 13.93      | 3.45%     | +0.15 (1.09%)
+| Welltower Inc  [NYSE:WELL]                      | 57.99      | 6.00%     | +0.40 (0.69%)
+| Kinder Morgan Inc  [KMI]                        | 16.85      | 4.75%     | −0.21 (1.23%)
+| Kraft Heinz Co  [KHC]                           | 58.47      | 4.28%     | +0.80 (1.39%)
+| Merck & Co., Inc.  [MRK]                        | 62.58      | 3.07%     | +0.61 (0.98%)
+| National Grid plc (ADR)  [NGG]                  | 55.56      | 8.95%     | +0.030 (0.054%)
+| Pfizer Inc.  [PFE]                              | 36.67      | 3.71%     | +0.18 (0.49%)
+| AT&T Inc.  [T]                                  | 33.83      | 5.91%     | +0.020 (0.059%)
+| Vodafone Group Plc (ADR)  [VOD]                 | 25.21      | 7.23%     | +0.030 (0.12%)
+| Verizon Communications Inc.  [VZ]               | 49.18      | 4.80%     | +0.18 (0.37%)
+| Consumer Staples Select Sect. SPDR (ETF)  [XLP] | 50.83      | 3.52%     | +0.63 (1.25%)
+| Exxon Mobil Corporation  [XOM]                  | 83.60      | 3.92%     | +0.76 (0.92%)
